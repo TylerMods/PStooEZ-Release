@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0-alpha",
+  "notes": "Initial alpha release.\n\n→ Full cheat management with live toggle and slider controls\n→ Memory tracker with sparklines and freeze\n→ Memory scanner (7 scan modes)\n→ AI Hunt with Claude AI\n→ Custom cheat creator\n→ Save state viewer\n→ Speedrun timer\n→ Friends & community\n→ PS2 Debugger (Classified)",
+  "pub_date": "2025-06-01T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYlAxbWpKYW9NbFp5ZkIyM3VIV3RpZFUrOHc3SERSbTAzK0NlSjl2ejJrbHpINVVZY1NWaTFEMGVpdWlxc3NCUVNkdzEzamQ0VU5YSDgxemRQbVUyMmtlT293ZHVrZVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMDE5NTU4CWZpbGU6UFN0b29FWl8xLjAuMC1hbHBoYV94NjQtc2V0dXAuZXhlCjdiK3oydzNIOUlYdWNOcTJxbS95VmFsdjU3bUJiMXdKc04rdldSWk9vLzQ5NE85OE9Bck1QL3NRa2V0OVVCWmhDRzREUENWZ09jamhFcDJtRlpNMEFRPT0K",
+      "url": "https://github.com/TylerMods/PStooEZ-Release/releases/download/v1.0.0-alpha/PStooEZ_1.0.0-alpha_x64-setup.exe"
+    }
+  }
+}
