@@ -1,10 +1,10 @@
 {
   "version": "1.0.2-alpha",
-  "notes": "Cheat sharing right-click menu with friend picker | Share button in pnach browser | Code Converter drag-and-drop file upload | Debugger lag fix (no polling when disconnected) | Auto-refresh toggle styled | Memory watch perf fix | Settings version dynamic | Frozen address interval 500ms",
-  "pub_date": "2026-05-31T14:17:15.507Z",
+  "notes": "Remove duplicate save_text_file/read_text_file from pnach.rs|Fix PnachBrowserPage unused import in App.tsx|Fix GH import using scraped title instead of DB title|Add is_bad_title filter to pnach extract_title (Cloudflare pages, etc.)|Add CodeTwink scraper + import_codetwink_to_pnach command|Library: Cheats/Raw tab split, raw edit mode, export/import, CT badge",
+  "pub_date": "2026-05-31T23:46:29.578Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYlAxbWpKYW9NbFFOWGJ6eEdMYWdsZThRdk4vcVdUSEc5a05BYi9CQ2dpRVU4MG12aDcxUHNZNGUwNE1JOUtxR0lvMWx4MG0vSW5mV1dHM2lGcjFyTnB5cWU5WVRiS1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjM2NjEyCWZpbGU6UFN0b29FWl8xLjAuMi1hbHBoYV94NjQtc2V0dXAuZXhlCldYakwwRVlScmRMMmZoY2UrTUdya1QrUEU5ZnpVRnVQNWhzZ3JoVGRHL3dmRlhIdmdnNDVUWTlHZTFuNUt5QlV2dDFtcHFmY3Z3ZWVMbU1qUVAxMEF3PT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYlAxbWpKYW9NbFQ5NTZpMzVxeUdKK2RvdXZXYkFUbldkMEdTWEdleHVYM3Y1RDJ5TTA1NVRRN1BwRzVYM3BtNnk1MkY0V1loaVBrR0hWTG9YcjF6SWg4WUpvNnk3V3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjcxMTIyCWZpbGU6UFN0b29FWl8xLjAuMi1hbHBoYV94NjQtc2V0dXAuZXhlCmJsZWhYdEtaZlR4RUt4Z3hOb2NVRCtpL3dPdUtzZU1GbHNJK0QyZ2N0VG53REFRbmgyeGJHNUZ6a1lScnU0TUpCQWNKQXRWUVE3bXhVdG8zeldHSEN3PT0K",
       "url": "https://github.com/TylerMods/PStooEZ-Release/releases/download/v1.0.2-alpha/PStooEZ_1.0.2-alpha_x64-setup.exe"
     }
   }
