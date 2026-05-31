@@ -1,11 +1,11 @@
 {
-  "version": "1.0.2-alpha",
+  "version": "1.0.3-alpha",
   "notes": "Remove duplicate save_text_file/read_text_file from pnach.rs|Fix PnachBrowserPage unused import in App.tsx|Fix GH import using scraped title instead of DB title|Add is_bad_title filter to pnach extract_title (Cloudflare pages, etc.)|Add CodeTwink scraper + import_codetwink_to_pnach command|Library: Cheats/Raw tab split, raw edit mode, export/import, CT badge",
-  "pub_date": "2026-05-31T23:46:29.578Z",
+  "pub_date": "2026-05-31T23:58:55.537Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYlAxbWpKYW9NbFQ5NTZpMzVxeUdKK2RvdXZXYkFUbldkMEdTWEdleHVYM3Y1RDJ5TTA1NVRRN1BwRzVYM3BtNnk1MkY0V1loaVBrR0hWTG9YcjF6SWg4WUpvNnk3V3dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjcxMTIyCWZpbGU6UFN0b29FWl8xLjAuMi1hbHBoYV94NjQtc2V0dXAuZXhlCmJsZWhYdEtaZlR4RUt4Z3hOb2NVRCtpL3dPdUtzZU1GbHNJK0QyZ2N0VG53REFRbmgyeGJHNUZ6a1lScnU0TUpCQWNKQXRWUVE3bXhVdG8zeldHSEN3PT0K",
-      "url": "https://github.com/TylerMods/PStooEZ-Release/releases/download/v1.0.2-alpha/PStooEZ_1.0.2-alpha_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYlAxbWpKYW9NbFkvRzNJUkIvdGI3elBGaVgzQXgxZUdIcDRxdm12bld1Z3BOTVZzQWR0RTZHeFQ5WENnUWhzVnhIeFhvYTljcW5ML0xiQTZNOEhHQ1VpTTlYcS95OGdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgwMjcxOTIyCWZpbGU6UFN0b29FWl8xLjAuMy1hbHBoYV94NjQtc2V0dXAuZXhlCjR1QmJheWx1TFpLMnNmUmMxT3pNaHU4Sk4xREZRbkdoNUowR0FqSVJwU29KQkErTTZkeWErTVZES3NWWEN3ZUhueFRibzVEbnY1eXM4NVhEajlVbkR3PT0K",
+      "url": "https://github.com/TylerMods/PStooEZ-Release/releases/download/v1.0.3-alpha/PStooEZ_1.0.3-alpha_x64-setup.exe"
     }
   }
 }
